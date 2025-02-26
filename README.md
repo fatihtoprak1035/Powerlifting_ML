@@ -35,9 +35,6 @@ Daha sonra `powerlifting-analysis.ipynb` dosyasını açarak adım adım çalı�
 ## 📈 Sonuçlar ve Analiz
 Bu proje, powerlifting sporcularının performanslarını tahmin etmek için farklı **makine öğrenmesi algoritmalarını** test etmiştir. Kullanılan modellerin doğruluk oranları karşılaştırılmış ve en iyi model belirlenmiştir.
 
-## 📜 Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Serbestçe kullanabilir, geliştirebilir ve paylaşabilirsiniz.
-
 ---
 📧 **İletişim:** Eğer herhangi bir sorunuz varsa veya projeye katkı sağlamak isterseniz, GitHub üzerinden issue açabilirsiniz! 🚀
 
